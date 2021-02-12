@@ -1,6 +1,8 @@
 # ApiLogicServerTutorial
 Jupyter Lab Notebook for [API Logic Server](https://github.com/valhuber/ApiLogicServer#readme).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/ApiLogicServerTutorial/HEAD)
+
 Under Construction
 
 Intended for mybinder.
