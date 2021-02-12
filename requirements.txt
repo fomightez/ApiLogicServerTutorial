@@ -1,3 +1,2 @@
 ApiLogicServer
-jupyterlab==3.0.7
-jupyter-offlinenotebook
+jupyter-server-proxy
